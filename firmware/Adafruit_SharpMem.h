@@ -28,8 +28,8 @@ All text above, and the splash screen must be included in any redistribution
 #elif USE_SPARK_CORE_V01
   #include <spark_related_stuff_v1.h>
 #endif
- 
-#include <Adafruit_GFX.h>
+
+#include "Adafruit_GFX/Adafruit_GFX.h"
 #include <avr/pgmspace.h>
 
 // LCD Dimensions
