@@ -1,7 +1,7 @@
 {
   "name": "Adafruit_SharpMem",
   "author": "Luis Mesas <luismesas@gmail.com>",
-  "license": "BSD",
+  "license": "MIT",
   "version": "1.0.0",
   "description": "This is an Arduino library for our Monochrome SHARP Memory Displays"
 }
